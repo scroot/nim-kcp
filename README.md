@@ -1,2 +1,2 @@
 # nim-kcp
-A Fast and Reliable ARQ Protocol - KCP for Nim
+A Fast and Reliable ARQ Protocol - KCP wrapper for Nim
